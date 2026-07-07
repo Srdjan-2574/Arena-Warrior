@@ -2,7 +2,7 @@
 
 Arena Shooter is a single-player FPS game developed in **Unity** using **C#**. The objective is simple: survive as long as possible, eliminate enemies, and achieve the highest score before your health reaches zero.
 
-## The source code will be placed near the future ##
+## Source code will be added in the near future ##
 
 ## Features
 
